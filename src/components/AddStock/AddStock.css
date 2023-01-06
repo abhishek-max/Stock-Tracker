@@ -1,0 +1,24 @@
+.addStockForm {
+    align-content: center;
+}
+
+.addStockBox {
+    flex: 1;
+    margin: 50px;
+    padding: 5px;
+}
+.inputField {
+    padding: 5px;
+}
+
+.inputText {
+    margin: 10px;
+}
+
+.formTitle {
+    text-align: center;
+}
+
+.buttonDiv {
+    margin: 20px;
+}

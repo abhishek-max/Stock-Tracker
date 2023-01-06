@@ -1,0 +1,21 @@
+.container {
+    flex: 1;
+    align-content: center;
+}
+.formTitle {
+    text-align: center;
+}
+
+.addLoginBox {
+    flex: 1;
+    margin: 50px;
+    padding: 5px;
+}
+
+.inputField {
+    padding: 5px;
+}
+
+.buttonDiv {
+    margin: 20px;
+}
