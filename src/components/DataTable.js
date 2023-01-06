@@ -19,8 +19,6 @@ import { getLTPData } from '../AngelAPI/auth';
 import DeleteIcon from '@mui/icons-material/Delete';
 import UpdateIcon from '@mui/icons-material/Update';
 import { AlertUpdate } from '../Redux/action';
-import notification from './Notifier/notifier';
-
 
 
 export default function DataTable() {
